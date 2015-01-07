@@ -1,0 +1,8 @@
+*#
+*~
+/.lein-*
+/.nrepl-port
+/.repl
+/out
+/pom.xml*
+/target
